@@ -1,3 +1,3 @@
 # stopwatch
 
-# Basic stopwatch created with JavaScript and housed within html and css properties
+# Basic stopwatch created with JavaScript and housed within HTML and CSS properties
